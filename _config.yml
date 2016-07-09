@@ -1,0 +1,14 @@
+layout_spectrum: 0.5854511021170765
+typography_spectrum: 0.6643145470879972
+color:
+  brandStrength: 0.6097999757621437
+  lightness: 0.6421467894688249
+  saturation: 0.8729948364198208
+  rhythmicContrast: 0.1113482799846679
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: eff
